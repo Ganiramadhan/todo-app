@@ -1,6 +1,8 @@
 # 📝 Next.js To-Do App with CRUD and API Integration
 
-A modern and responsive To-Do List web application built with **Next.js**, **React Hooks**, and **vanilla CSS**, featuring full **CRUD functionality** and integration with a third-party API (JSONPlaceholder).
+This is a modern and responsive To-Do List web application built with Next.js, React Hooks, and vanilla CSS, providing full CRUD capabilities and integration with the JSONPlaceholder API.
+
+🔗 Visit the live site here: https://todolist.ganipedia.xyz
 
 ---
 
