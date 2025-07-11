@@ -38,7 +38,7 @@ RUN pnpm install --prod
 # Copy .next build output and public assets
 COPY --from=builder /app/.next .next
 COPY --from=builder /app/public public
-COPY --from=builder /app/next.config.js .
+COPY --from=builder /app/next.config.ts .
 COPY --from=builder /app/package.json .
 
 # Expose port
